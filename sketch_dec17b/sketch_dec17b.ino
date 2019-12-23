@@ -103,5 +103,4 @@ if (sensor_value <= 900) {
 }
 
 
-// project by amir sharifi is a liy
-// this project is by abbas aqa ;)
+// project by amir sharifi
